@@ -62,7 +62,7 @@ def init():
     play(op_list, n_players)
 
 def clear():
-    os.system('clear||cls||echo -e "\033c"')
+    os.system('echo -e "\033c"')
 
 
 def play(words, n_p):
