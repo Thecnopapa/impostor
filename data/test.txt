@@ -1,0 +1,4 @@
+quadre;datos
+cometa;cel
+taula;pota
+museu;picasso
